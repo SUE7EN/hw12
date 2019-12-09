@@ -8,11 +8,11 @@ At a certain time, there will be a hellium balloon appear on the top part of the
 Once the balloondog get the helium balloon, the player win the game.
 
 ## Component Parts
--Instruction page at the begining.
--Use Balloondog.move and Balloondog.jump to make the balloondog move around.
--Import image of the obstacle and use p5.collide2D and collideRectRect() to see if the balloondog is touching the obstacle.
--The game over page and game win page.
--Add sound for bgm, and jump and win or lose the game.
+- Instruction page at the begining.
+- Use Balloondog.move and Balloondog.jump to make the balloondog move around.
+- Import image of the obstacle and use p5.collide2D and collideRectRect() to see if the balloondog is touching the obstacle.
+- The game over page and game win page.
+- Add sound for bgm, and jump and win or lose the game.
 
 ## Timeline
 - Week 1: Write Proposal, flush out initial code for your idea
@@ -24,6 +24,9 @@ Once the balloondog get the helium balloon, the player win the game.
 1. Determine if collision hs happened or not.
 2. Use more than one image to make the balloon dog character animated.
 3. Control when the helium balloon appear.
+
+## Completed Work
+https://editor.p5js.org/SUE7EN/sketches/MtdRkWyiq
 
 ## References and links
 https://www.youtube.com/watch?v=l0HoJHc-63Q&list=WL&index=23&t=597s
